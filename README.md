@@ -11,5 +11,6 @@ Nesse projeto contém umna suíte de testes do at [@booker](https://restful-book
 Utilizando o at [@booker](https://docs.qameta.io/allure/).
 
 ### Postman 
+Crianção de Collection com todos os endpoints da documentação at [@booker](https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth/).
 
 
