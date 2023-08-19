@@ -10,7 +10,7 @@ O Desafio Final do Bootcamp GFT QA para Mulheres propôs o desenvolvimento de um
 
 O projeto possui as seguintes características:
 
-- Suíte de testes automatizados para a aplicação @booker.
+- Suíte de testes automatizados para a aplicação @booker, utilizando RestAssured.
 - Geração de relatórios de teste utilizando o @booker.
 - Criação de uma coleção de endpoints no Postman, abrangendo toda a documentação do @booker.
 
